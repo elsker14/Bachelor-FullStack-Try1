@@ -1,4 +1,4 @@
-# Bachelor-Project-Try1
+# Bachelor Project Try1
 
 Back-end: SpringMVC
 
