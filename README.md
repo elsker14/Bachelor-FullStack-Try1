@@ -1,7 +1,5 @@
 # Bachelor-Project-Try1
 
-Bachelor Project: Backend(SpringMVC in Java)
+Back-end: SpringMVC
 
-Frontend (JSP)
-
-Database (never implemented)
+Front-end: JSP, HTML, CSS, JS
